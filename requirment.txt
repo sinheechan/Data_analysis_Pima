@@ -1,0 +1,22 @@
+
+
+Columns	                  |      Detail
+                          |
+==========================|===========================================
+Pregnancies	              |     임신횟수
+                          |
+Glucose	                  |     포도당 부하 검사 수치
+                          |
+BloodPressure	          |     혈압
+                          |
+SkinThickness	          |     팔 삼두근 뒤쪽의 피하지방 측정값
+                          |
+Insulin	                  |     혈청 인슐린
+                          |
+BMI	                      |     체질량 지수
+                          |
+DiabetesPedigreeFunction  |     당뇨 내력 가중치 값
+                          |
+Age	                      |     나이
+                          |
+Outcome	                  |     당뇨여부(0 또는 1)
